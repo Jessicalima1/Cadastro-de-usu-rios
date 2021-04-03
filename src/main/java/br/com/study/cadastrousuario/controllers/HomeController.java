@@ -1,4 +1,4 @@
-package br.com.study.cadastrousuario;
+package br.com.study.cadastrousuario.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
